@@ -14,3 +14,7 @@ Copie o arquivo organize_music.rb para o diretório de download ou de musicas e 
 #Funcionamento
 
 O programa irá criar um diretório de acordo com o nome do cantor/banda e mover as musicas para o diretório criado.
+
+#Plataforma
+* Este só foi testado em máquinas Linux
+* Duvidas e sugestões entrar em contato.
